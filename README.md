@@ -8,7 +8,10 @@ The application generates a random greeting messages from the api endpoint.
 
 
 ## Link To Fronend Counterpart
-[Frontend](https://kc-react-rails-front-end.herokuapp.com/)
+### Live Link
+[Frontend-Live](https://kc-react-rails-front-end.herokuapp.com/)
+### Source Link
+[Frontend-Source](https://github.com/HENRYKC24/hello-react-rails-front-end)
 ## Built With
 
 ### Back End:
