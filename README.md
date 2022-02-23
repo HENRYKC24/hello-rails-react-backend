@@ -6,15 +6,14 @@ This is a backend application build with rails. The main purpose of this project
 
 The application generates a random greeting messages from the api endpoint.
 
+
+## Link To Fronend Counterpart
+[Frontend](https://kc-react-rails-front-end.herokuapp.com/)
 ## Built With
 
 ### Back End:
 - Ruby on Rails
 - PostgreSQL
-
-### Front End:
-- React
-- Redux
 
 ## Getting Started
 
